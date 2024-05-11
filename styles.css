@@ -1,0 +1,35 @@
+body {
+    background-color: #183028; /* verde escuro */
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center; /* Adicionado para centralizar o texto */
+}
+
+hr {
+    border: none;
+    border-top: 1px solid white;
+    margin: 20px auto;
+    width: 50%;
+}
+
+.texto-branco {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+}
